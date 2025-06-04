@@ -1,2 +1,1 @@
-# ssrplus
-ssrplus=code
+转自 fw876/helloworld
